@@ -23,8 +23,8 @@ This Data is taken by from kaggle in CSV fromat ,which contain detailed informat
    1. Total Pizzas sold by Pizza Category
    1. Top 5 Best Seller by Total pizza sold
    1. Bottom 5 worst seller by Total pizzas sold
-*  Connected and transformed raw data from excel file  into Power BI and designed interactive reports and dashboards to complete the task.
-/  Created an executive KPI dashboard containing dynamic filtering options high- level trending metrics,sales performance ,order distribution ,and daily trend for total order ,hourly trend for total order.
+*   Connected and transformed raw data from excel file  into Power BI and designed interactive reports and dashboards to complete the task.
+/   Created an executive KPI dashboard containing dynamic filtering options high- level trending metrics,sales performance ,order distribution ,and daily trend for total order ,hourly trend for total order.
  
 
 
