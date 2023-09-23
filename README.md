@@ -12,17 +12,17 @@ This Data is taken by from kaggle in CSV fromat ,which contain detailed informat
 ## Steps Performed:
 1. Import data from all available Excel files into MYSQL.
 1.  Write queries on SQL to calculate the following metrics:
-   1. Total Revenue
-   1. Average  order Value
-   1. Total pizza sold
-   1. Total orders
-   1. Daily Trend for Total order
-   1. Hourly Trend for Total orders
-   1. Percentage of Sales by pizza Category
-   1. Percentage of Sales by Pizza size
-   1. Total Pizzas sold by Pizza Category
-   1. Top 5 Best Seller by Total pizza sold
-   1. Bottom 5 worst seller by Total pizzas sold
+   -  Total Revenue
+   +  Average  order Value
+   *  Total pizza sold
+   /  Total orders
+   -  Daily Trend for Total order
+   +  Hourly Trend for Total orders
+   *  Percentage of Sales by pizza Category
+   /  Percentage of Sales by Pizza size
+   -  Total Pizzas sold by Pizza Category
+   *  Top 5 Best Seller by Total pizza sold
+   +  Bottom 5 worst seller by Total pizzas sold
 1. Connected and transformed raw data from excel file  into Power BI and designed interactive reports and dashboards to complete the task.
 1. Created an executive KPI dashboard containing dynamic filtering options high- level trending metrics,sales performance ,order distribution ,and daily trend for total order ,hourly trend for total order.
  
